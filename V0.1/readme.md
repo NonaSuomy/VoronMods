@@ -1,0 +1,10 @@
+List of modifications
+-Umbilical strain relief
+ -SKR Mini E3 V3 Chamber Thermistor
+-Double skirt clip
+-LCD Panel Mount
+-Rear Door
+-Mesh Skirt
+-BTT Filament Runout Sensor
+-BTT 24V UPS
+-SKR Mini E3 V3 I2C
